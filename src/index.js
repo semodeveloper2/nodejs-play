@@ -31,3 +31,5 @@ console.log(
   str1[regex1.lastIndex - array1[0].length],
   str1[regex1.lastIndex - 1]
 );
+
+/////////////////////////////////////
